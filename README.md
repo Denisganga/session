@@ -1,5 +1,5 @@
 # Building a chatbot using the chatgpt API on a session conducted on March 29, 2024
-![Example Image](Screenshot_2024-03-31_08_10_58.png)
+![Example Image](https://github.com/Denisganga/session/blob/main/Screenshot_2024-03-29_20_24_04.png)
 
 ![Example Image](Screenshot_2024-03-31_08_10_58.png)
 
