@@ -1,5 +1,9 @@
 # Building a chatbot using the chatgpt API on a session conducted on March 29, 2024
+![Example Image]([Screenshot_2024-03-31_08_10_58.png])
 
+![Example Image]([Screenshot_2024-03-31_08_10_58.png])
+
+![Example Image]([WhatsApp%20Image%202024-03-29%20at%2010.55.22%20PM.jpeg])
 
 ## Mental Health Chatbot using Django and ChatGPT API
 
